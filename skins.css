@@ -1,0 +1,86 @@
+body {
+    margin: 0%;
+    background-color: rgb(226, 206, 180);
+    font-family: 'Spinnaker', sans-serif;
+}
+
+.primercuadrado {
+    height: 160px;
+    width: 450px;
+    background-image: url('https://i.pinimg.com/originals/bb/1b/ff/bb1bff3bb544247cb322ce7f8a25b622.jpg');
+    background-size: 300px;
+    margin: auto;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    
+}
+
+.barrita {
+    height: 15px;
+    width: 450px;
+    background-image: url('https://i.pinimg.com/564x/1e/84/de/1e84de38069f76677e073f40dc9996ff.jpg');
+    background-size: 400px;
+    margin: auto;
+    margin-top: 20px;
+    font-size: 6px;
+    color: aliceblue;
+    letter-spacing: 15px;
+    text-align: center;
+}
+
+.contenedor1 {
+    height: 150px;
+    width: 450px;
+    display: flex;
+    margin: auto;
+}
+
+.segundocuadrado {
+    height: 120px;
+    width: 180px;
+    background-color: rgba(105, 105, 105, 0);
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.segundocuadrado h1 {
+    font-size: 10px;
+    letter-spacing: 7px;
+    padding: 4px;
+}
+
+.segundocuadrado .img1 {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://i.pinimg.com/564x/f0/6d/be/f06dbe91e269275b4d372090f9ac4948.jpg');
+    background-size: cover;
+    background-position: bottom;
+    border-radius: 15px;
+    margin-top: auto;
+}
+
+.barravert1 {
+    height: 100%;
+    width: 15px;
+    background-image: url('https://i.pinimg.com/564x/5e/0b/72/5e0b72958f7ea5d440fb5bdc8b5d8916.jpg');
+    background-size: cover;
+    margin-top: 20px;       
+}
+
+.cuadrotexto {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(241, 233, 215);
+    margin-top: 20px;
+    justify-content: flex-end;
+    font-size: 8px;
+    display: flex;
+    letter-spacing: 3px;
+    color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    font-weight: 600;
+    
+}
+

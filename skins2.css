@@ -1,0 +1,56 @@
+.contenedor2 {
+    height: 150px;
+    width: 450px;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.tercercuadrado {
+    height: 120px;
+    width: 180px;
+    background-color: rgba(105, 105, 105, 0);
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.tercercuadrado h1 {
+    font-size: 10px;
+    letter-spacing: 7px;
+    padding: 4px;
+}
+
+.tercercuadrado .img2 {
+    height: 100%;
+    width: 100%;
+    background-image: url('https://cdna.artstation.com/p/assets/images/images/040/714/592/large/lu-yao-20210822.jpg?1629696983');
+    background-size: cover;
+    border-radius: 15px;
+    margin-top: auto;
+}
+
+.barravert2 {
+    height: 100%;
+    width: 15px;
+    background-image: url('https://i.pinimg.com/564x/5e/0b/72/5e0b72958f7ea5d440fb5bdc8b5d8916.jpg');
+    background-size: cover;
+    background-position: right;
+    margin-top: 20px;       
+}
+
+.cuadrotexto2 {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(241, 233, 215);
+    margin-top: 20px;
+    justify-content: flex-end;
+    font-size: 8px;
+    display: flex;
+    letter-spacing: 3px;
+    color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    font-weight: 600;
+    
+}

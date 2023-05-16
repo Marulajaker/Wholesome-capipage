@@ -1,0 +1,89 @@
+.contenedor3 {
+    height: 180px;
+    width: 450px;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.cuartocuadrado {
+    height: 150px;
+    width: 50%;
+    background-color: rgba(0, 0, 0, 0);
+    margin-top: 20px;
+    margin-right: 15px;
+
+}
+
+.cuartocuadrado h1 {
+    font-size: 10px;
+    letter-spacing: 7px;
+    padding: 4px;
+
+}
+
+.barrahoriz1 {
+    height: 10px;
+    width: 100%;
+    background-image: url('https://i.pinimg.com/564x/22/64/b0/2264b0d306fa373d8827efdc2d3c0ada.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.cuadrotexto3 {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(241, 233, 215);
+    font-size: 8px;
+    display: flex;
+    letter-spacing: 3px;
+    color: darkolivegreen;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.img3 {
+    height: 50px;
+    width: 100%;
+    background-image: url('https://i.pinimg.com/564x/b9/4f/bd/b94fbdf9199b690eb313f7f2dfb16248.jpg');
+    background-size: cover;
+    background-position-y: -20px;
+    
+    border-radius: 15px;
+}
+
+.quintocuadrado {
+    height: 150px;
+    width: 50%;
+    background-color: rgba(105, 105, 105, 0);
+    margin-top: 20px;
+}
+
+.quintocuadrado h1 {
+    font-size: 10px;
+    letter-spacing: 7px;
+    padding: 4px;
+}
+
+.barrahoriz2 {
+    height: 10px;
+    width: 100%;
+    background-image: url('https://i.pinimg.com/564x/22/64/b0/2264b0d306fa373d8827efdc2d3c0ada.jpg');
+    background-size: cover;
+    background-position: bottom;
+}
+
+.cuadrotexto4 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(241, 233, 215);
+    font-size: 8px;
+    display: flex;
+    letter-spacing: 3px;
+    color: darkolivegreen;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    text-align: center;
+}
